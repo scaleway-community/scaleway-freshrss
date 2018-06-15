@@ -1,0 +1,8 @@
+# FreshRSS usage
+
+Your FreshRSS image is ready!
+You can start configuring your FreshRSS at http://server_ip/
+
+Your FreshRSSinstance is placed at /usr/share/FreshRSS/
+
+For further documentation, consult https://github.com/FreshRSS/FreshRSS
